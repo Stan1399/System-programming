@@ -1,0 +1,4 @@
+﻿  L7.cpp
+e:\универстет\семестр 5\сп\лабораторные работы\l7\l7\l7.cpp(155): warning C4244: '=': conversion from 'LRESULT' to 'WORD', possible loss of data
+e:\универстет\семестр 5\сп\лабораторные работы\l7\l7\l7.cpp(169): warning C4244: '=': conversion from 'LRESULT' to 'WORD', possible loss of data
+  L7.vcxproj -> E:\Универстет\Семестр 5\СП\Лабораторные работы\L7\Debug\L7.exe

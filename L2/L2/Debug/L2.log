@@ -1,0 +1,6 @@
+﻿  L2.cpp
+e:\универстет\семестр 5\сп\лабораторные работы\l2\l2\l2.cpp(32): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 3 has type 'LPVOID'
+e:\универстет\семестр 5\сп\лабораторные работы\l2\l2\l2.cpp(88): warning C4018: '<': signed/unsigned mismatch
+e:\универстет\семестр 5\сп\лабораторные работы\l2\l2\l2.cpp(100): warning C4101: 'inp': unreferenced local variable
+e:\универстет\семестр 5\сп\лабораторные работы\l2\l2\l2.cpp(94): warning C4715: 'FindFileByClaster': not all control paths return a value
+  L2.vcxproj -> E:\Универстет\Семестр 5\СП\Лабораторные работы\L2\Debug\L2.exe

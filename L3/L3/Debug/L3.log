@@ -1,0 +1,10 @@
+﻿  L3.cpp
+e:\универстет\семестр 5\сп\лабораторные работы\l3\l3\l3.cpp(275): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\универстет\семестр 5\сп\лабораторные работы\l3\l3\l3.cpp(280): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\универстет\семестр 5\сп\лабораторные работы\l3\l3\l3.cpp(237): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  e:\универстет\семестр 5\сп\лабораторные работы\l3\l3\l3.cpp(284): note: see reference to function template instantiation 'void clear<double>(tree_node<double> *)' being compiled
+  L3.vcxproj -> E:\Универстет\Семестр 5\СП\Лабораторные работы\L3\Debug\L3.exe
